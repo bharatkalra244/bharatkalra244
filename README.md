@@ -28,7 +28,7 @@
 ## Education
 
 **B.E. Computer Engineering** | THAPAR UNIVERSITY | July 2018 - June 2022 | Patiala, PB
-- CGPA : 9.14 (Scholarship Holder)
+- CGPA : 9.14
 
 **High School** | O.S.D.A.V PUBLIC SCHOOL | May 2016 - June 2017 | Kaithal, HR
 - Percentage : 87.6%
