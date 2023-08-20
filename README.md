@@ -53,7 +53,7 @@
 **Other:**
 🐳 Docker • 🏃 Agile Methodology • ☁️ Cloud Services (Familiar: AWS)
 
-## Additional Experience
+## Position Of Resposibility
 
 **🎩Teaching Assistant** | Coding Ninjas
 - Delivered individualized academic assistance and assignment support in the subject of DSA using Python, earning positive student feedback.
